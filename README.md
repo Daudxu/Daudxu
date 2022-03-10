@@ -1,3 +1,4 @@
+ <p align="center"> Hi, I’m Dau </p>
 - 👋 Hi, I’m @Daudxu
 - 👀 I’m interested in basketball，badminton, swimming, exploring, coding...
 - 🌱 I’m currently learning blockchain
