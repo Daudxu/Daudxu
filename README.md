@@ -2,7 +2,7 @@
  
  
 - 👋 Hi, I’m @Daudxu
-- 👀 I’m interested in basketball，badminton, swimming, exploring, coding...
+- 👀 I’m interested in basketball, badminton, swimming, exploring, coding, and soon...
 - 🌱 I’m currently learning blockchain
 - 💞️ I’m looking to collaborate on develop open source projects
 - 📫 How to reach me : Email contact
