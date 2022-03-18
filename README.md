@@ -1,4 +1,4 @@
- <h1 align="center">👋 Hi, I’m Dan 👋</h1>
+ <h1 align="center">👋 Hi, I’m Dan  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 👋</h1>
  <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Daudxu/count.svg" />
