@@ -1,4 +1,4 @@
- <h1 align="center"><img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> Hi, I’m Dan <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
+ <h1 align="center"> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">Hi, I’m Dan <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
  <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Daudxu/count.svg" />
