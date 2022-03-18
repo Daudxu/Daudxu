@@ -1,5 +1,8 @@
  <h1 align="center"> Hi, I’m Dan </h1>
- 
+ <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Daudxu/count.svg" />
+</p>
  
 - 👋 Hi, I’m @Daudxu
 - 👀 I’m interested in basketball, badminton, swimming, exploring, coding, and soon...
