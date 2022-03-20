@@ -14,12 +14,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/vue.svg"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Antu_php.svg/512px-Antu_php.svg.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Redis_Logo.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/redis.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://commons.wikimedia.org/wiki/File:Antu_mysql-workbench.svg#/media/File:Antu_mysql-workbench.svg"></code>
-<code><img height="20" src="https://commons.wikimedia.org/wiki/File:Antu_mongodb.svg#/media/File:Antu_mongodb.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/My-sql.svg/256px-My-sql.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/512px-Antu_mongodb.svg.png"></code>
+
 
  | <a href="https://github.com/Daudxu"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Daudxu&show_icons=true&include_all_commits=true&theme=bliu&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Daudxu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daudxu&layout=compact&theme=blue&hide_border=true" /></a> |
  | ------------- | ------------- |
