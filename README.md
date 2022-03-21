@@ -22,7 +22,10 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/512px-Antu_mongodb.svg.png"></code>
 
 
- | <a href="https://github.com/Daudxu"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Daudxu&show_icons=true&include_all_commits=true&theme=bliu&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Daudxu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daudxu&layout=compact&theme=blue&hide_border=true" /></a> |<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Daudxu&" alt="Daudxu" /></p>|
- | ------------- | ------------- | ------------- |
+ | <a href="https://github.com/Daudxu"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Daudxu&show_icons=true&include_all_commits=true&theme=bliu&hide_border=true" alt="Anurag's github stats" /></a> |  <a href="https://github.com/Daudxu"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Daudxu&" alt="Daudxu" /></a> |
+ | ------------- | ------------- |
+ 
+ <a href="https://github.com/Daudxu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daudxu&layout=compact&theme=blue&hide_border=true" /></a>
 
+ 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
