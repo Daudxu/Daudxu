@@ -26,6 +26,6 @@
  | ------------- | ------------- |
  |<a href="https://github.com/Daudxu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daudxu&layout=compact&theme=blue&hide_border=true" /></a> | <em align="center"><b align="center"> On-Going project </b></em> <br/> 📖 <a href="https://digination-game.github.io/digination-ui-doc/"> Digination UI </a> <a href="https://github.com/digination-game/digination-ui"> GithUb </a><br/>📖 <a href="https://digination-game.github.io/digination-ui-doc/"> Digination Cli </a> <a href="https://github.com/digination-game/digination-cli"> GithUb </a>|
 
- 
+  
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> 
  
