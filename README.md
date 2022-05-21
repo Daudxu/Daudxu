@@ -3,7 +3,7 @@
   Visitor count<br>
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <img src="https://profile-counter.glitch.me/Daudxu/count.svg" /> 
 </p>
- 
+   
 - 👋 Hi, I’m @Daudxu
 - 👀 I’m interested in basketball, badminton, swimming, exploring, coding, and soon...
 - 🌱 I’m currently learning blockchain
@@ -25,7 +25,7 @@
  | <a href="https://github.com/Daudxu"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Daudxu&show_icons=true&include_all_commits=true&theme=bliu&hide_border=true" alt="Anurag's github stats" /></a> |  <a href="https://github.com/Daudxu"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Daudxu&" alt="Daudxu" /></a> |
  | ------------- | ------------- |
  |<a href="https://github.com/Daudxu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daudxu&layout=compact&theme=blue&hide_border=true" /></a> | <em align="center"><b align="center"> On-Going project </b></em> <br/> 📖 <a href="https://digination-game.github.io/digination-ui-doc/"> Digination UI Doc </a> 🏠 <a href="https://github.com/digination-game/digination-ui"> Github </a><br/>📖 <a href="https://digination-game.github.io/digination-ui-doc/"> Digination Cli </a> 🏠 <a href="https://github.com/digination-game/digination-cli"> Github </a><br/>🔧 <a href="https://daudxu.github.io/online-tools/">Blockchain Online Tools  </a> <br/> 📢 <a href="https://app.mycrypto.com">Mycrypto Tools  </a> |
-
+ 
 
   
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> 
