@@ -42,7 +42,3 @@ https://oneclickdapp.com/new
 <img src="https://github.com/digination-game/.github/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
 <br>
-
-
-
- 
