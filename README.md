@@ -3,12 +3,24 @@
   Visitor count<br>
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <img src="https://profile-counter.glitch.me/Daudxu/count.svg" /> 
 </p>
-   
+
 - 👋 Hi, I’m @Daudxu
 - 👀 I’m interested in basketball, badminton, swimming, exploring, coding, and soon...
 - 🌱 I’m currently learning blockchain
 - 💞️ I’m looking to collaborate on develop open source projects
 - 📫 How to reach me : Email contact
+
+```rust
+sigridjin.eth = {
+  github = "Daudxu",
+  email = "emmalinelarmonskz55@gmail.com",
+  twitter = "sigridjin_eth",
+  web2_me = PHP, NONE, REACT, VUE, JAVASCRIPT, TYPESCRIPT, GOLANG,
+  web3_me = ETHEREUM, SOLIDITY, ZK_SNARKS, COSMWASM, SOLANA, MOVE
+  researcher_me = scientist,
+  passport_identity = new Korean("eth")
+} :: LunaticPerson
+```
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
