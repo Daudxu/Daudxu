@@ -57,7 +57,7 @@ ID | NAME
 ID | NAME
 :---: | :---:
 1 | [ABI Encoding](https://abi.hashex.org)
-2 | [cssgr.id](https://oneclickdapp.com/new)
+2 | [oneclickdapp](https://oneclickdapp.com/new)
 
 ### other
 ID | LINK
