@@ -33,7 +33,7 @@ sigridjin.eth = {
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> -->
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/redis.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Antu_mysql-workbench.svg"></code>
+<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1foLzxRsJU5Nvm0_Oo8xdRbbc4KoQsws_kA&usqp=CAU"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/512px-Antu_mongodb.svg.png"></code>
 
 
