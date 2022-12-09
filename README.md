@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m @Daudxu
 - 👀 I’m interested in basketball, badminton, swimming, exploring, coding, and soon...
-- 🌱 I’m currently learning defi 
+- 🌱 I’m currently learning web3 
 - 💞️ I’m looking to collaborate on develop open source projects
 - 📫 How to reach me : Email contact
 
@@ -15,7 +15,7 @@ sigridjin.eth = {
   github = "Daudxu",
   email = "emmalinelarmonskz55@gmail.com",
   twitter = "sigridjin_eth",
-  web2_me = PHP, NONE, REACT, VUE, JAVASCRIPT, TYPESCRIPT, GOLANG,
+  web2_me = PHP, NODE, REACT, VUE, JAVASCRIPT, TYPESCRIPT, GOLANG,
   web3_me = ETHEREUM, SOLIDITY, ZK_SNARKS, COSMWASM, SOLANA, MOVE
   researcher_me = scientist,
   passport_identity = new Korean("eth")
