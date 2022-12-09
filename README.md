@@ -15,7 +15,7 @@ sigridjin.eth = {
   github = "Daudxu",
   email = "emmalinelarmonskz55@gmail.com",
   twitter = "sigridjin_eth",
-  web2_me = PHP, NODE, REACT, VUE, JAVASCRIPT, TYPESCRIPT, GOLANG,
+  web2_me = PHP, REACT, VUE, JAVASCRIPT, TYPESCRIPT, GOLANG,
   web3_me = ETHEREUM, SOLIDITY, ZK_SNARKS, COSMWASM, SOLANA, MOVE
   researcher_me = scientist,
   passport_identity = new Korean("eth")
@@ -27,7 +27,7 @@ sigridjin.eth = {
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/vue.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Antu_php.svg/512px-Antu_php.svg.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> -->
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/redis.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png"></code>
