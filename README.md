@@ -39,11 +39,11 @@ sigridjin.eth = {
  | ------------- | ------------- |
  |<a href="https://github.com/Daudxu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daudxu&layout=compact&theme=blue&hide_border=true" /></a> | <em align="center"><b align="center"> On-Going project </b></em> <br/> 📖 <a href="https://digination-game.github.io/digination-ui-doc/"> Digination UI Doc </a> 🏠 <a href="https://github.com/digination-game/digination-ui"> Github </a><br/>📖 <a href="https://digination-game.github.io/digination-ui-doc/"> Digination Cli </a> 🏠 <a href="https://github.com/digination-game/digination-cli"> Github </a><br/>🔧 <a href="https://daudxu.github.io/online-tools/">Blockchain Online Tools  </a> <br/> 📢 <a href="https://app.mycrypto.com">Mycrypto Tools  </a> |
  
-ABI Encoding(https://abi.hashex.org/)
-https://oneclickdapp.com/new
 
-###### Front end tools
-No | Name
+
+
+### web front-end tools
+ID | NAME
 :---: | :---:
 1 | csslayout.io
 2 | cssgr.id
@@ -51,6 +51,16 @@ No | Name
 4 | CSS Diner
 5 | Loading.io
 
+### web3 tools
+ID | NAME
+:---: | :---:
+1 | [ABI Encoding](https://abi.hashex.org)
+2 | [cssgr.id](https://oneclickdapp.com/new)
 
-- https://platane.github.io/snk/
+### other
+ID | LINK
+:---: | :---:
+1 |  https://platane.github.io/snk/
+
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> 
