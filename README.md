@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m @Daudxu
 - 👀 I’m interested in basketball, badminton, swimming, exploring, coding, and soon...
-- 🌱 I’m currently learning defi 
+- 🌱 I’m currently learning WEB3, WEB3D 
 - 💞️ I’m looking to collaborate on develop open source projects
 - 📫 How to reach me : Email contact
 
