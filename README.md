@@ -13,7 +13,6 @@
 ```rust
 sigridjin.eth = {
   github = "Daudxu",
-  email = "emmalinelarmonskz55@gmail.com",
   twitter = "sigridjin_eth",
   web2_me = PHP, REACT, VUE, JAVASCRIPT, TYPESCRIPT, GOLANG,
   web3_me = ETHEREUM, SOLIDITY, ZK_SNARKS, COSMWASM, SOLANA, MOVE
