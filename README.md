@@ -9,7 +9,14 @@
 - 🌱 I’m currently learning WEB3, WEB3D 
 - 💞️ I’m looking to collaborate on develop open source projects
 - 📫 How to reach me : Email contact
+
+
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white)
+![VueJS](https://img.shields.io/badge/Vue.js-35495e.svg?logo=vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB)
 
 ```rust
 sigridjin.eth = {
