@@ -3,7 +3,9 @@
   Visitor count<br>
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <img src="https://profile-counter.glitch.me/Daudxu/count.svg" /> 
 </p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=How+do+mathmaticians+make+fires;They+put+a+`log`+in+it.)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m @Daudxu
 - 👀 I’m interested in basketball, badminton, swimming, exploring, coding, and soon...
 - 🌱 I’m currently learning WEB3, WEB3D 
