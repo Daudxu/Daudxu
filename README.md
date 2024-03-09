@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=How+do+mathmaticians+make+fires;They+put+a+`log`+in+it.)](https://git.io/typing-svg)
 
-- 👋 Hi, I’m @Daudxu
+- 👋 Hi, I’m Dan
 - 👀 I’m interested in basketball, badminton, swimming, exploring, coding, and soon...
 - 🌱 I’m currently learning WEB3, WEB3D 
 - 💞️ I’m looking to collaborate on develop open source projects
