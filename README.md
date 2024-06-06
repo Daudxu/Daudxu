@@ -51,15 +51,6 @@ sigridjin.eth = {
  |<a href="https://github.com/Daudxu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daudxu&layout=compact&theme=blue&hide_border=true" /></a> | <em align="center"><b align="center"> On-Going project </b></em> <br/> 📖 <a href="https://digination-game.github.io/digination-ui-doc/"> Digination UI Doc </a> 🏠 <a href="https://github.com/digination-game/digination-ui"> Github </a><br/>📖 <a href="https://digination-game.github.io/digination-ui-doc/"> Digination Cli </a> 🏠 <a href="https://github.com/digination-game/digination-cli"> Github </a><br/>🔧 <a href="https://daudxu.github.io/online-tools/">Blockchain Online Tools  </a> <br/> 📢 <a href="https://app.mycrypto.com">Mycrypto Tools  </a> |
  
 
-### web front-end tools
-ID | NAME
-:---: | :---:
-1 | csslayout.io
-2 | cssgr.id
-3 | grid.layout
-4 | CSS Diner
-5 | Loading.io
-
 ### web3 tools
 ID | NAME
 :---: | :---:
