@@ -11,7 +11,7 @@
 
 - 👋 Hi, I’m Dan
 - 👀 I’m interested in basketball, badminton, swimming, exploring, coding, and soon...
-- 🌱 I’m currently learning WEB3, WEB3D 
+- 🌱 I’m currently learning WEB3, WEB3D, AI, LLM, YOLOV8
 - 💞️ I’m looking to collaborate on develop open source projects
 - 📫 How to reach me : Email contact
 
