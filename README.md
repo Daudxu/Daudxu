@@ -16,7 +16,7 @@
 - 💞️ I’m looking to collaborate on develop open source projects
 - 📫 How to reach me : Email contact
 
-
+cherry-studio  LLM-studio
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)
