@@ -1,7 +1,7 @@
  <h1 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">  Hi, I’m  Dan <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
  <p align="center"> 
   Visitor count<br>
- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <img src="https://profile-counter.glitch.me/Daudxu/count.svg" /> 
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </p>
 
 
@@ -50,10 +50,6 @@ sigridjin.eth = {
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1foLzxRsJU5Nvm0_Oo8xdRbbc4KoQsws_kA&usqp=CAU"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/512px-Antu_mongodb.svg.png"></code>
 
-
- | ------------- |
- |🔧 <a href="https://daudxu.github.io/online-tools/">Blockchain Online Tools  </a> <br/> 📢 <a href="https://app.mycrypto.com">Mycrypto Tools  </a> |
-
  
 
 ### web3 tools
@@ -61,6 +57,8 @@ ID | NAME
 :---: | :---:
 1 | [ABI Encoding](https://abi.hashex.org)
 2 | [oneclickdapp](https://oneclickdapp.com/new)
+3 | <a href="https://daudxu.github.io/online-tools/">Blockchain Online Tools  </a> 
+4 | <a href="https://app.mycrypto.com">Mycrypto Tools  </a>
 
 ### other
 ID | LINK
