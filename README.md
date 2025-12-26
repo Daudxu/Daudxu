@@ -51,8 +51,7 @@ sigridjin.eth = {
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/512px-Antu_mongodb.svg.png"></code>
 
 
- | <a href="https://github.com/Daudxu"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Daudxu&show_icons=true&include_all_commits=true&theme=bliu&hide_border=true" alt="Anurag's github stats" /></a> |  <a href="https://github.com/Daudxu"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Daudxu&" alt="Daudxu" /></a> |
- | ------------- | ------------- |
+ | ------------- |
  |🔧 <a href="https://daudxu.github.io/online-tools/">Blockchain Online Tools  </a> <br/> 📢 <a href="https://app.mycrypto.com">Mycrypto Tools  </a> |
 
  
